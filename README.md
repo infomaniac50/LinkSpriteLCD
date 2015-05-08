@@ -4,7 +4,7 @@ Blog: https://www.coding-squared.com/blog/
 Github: [@infomaniac50](https://github.com/infomaniac50/)  
 [License: GPLv3](LICENSE.md)  
 
-This library can read the keypad buttons on the LinkSprite LCD Shield. I got mine from Sparkfun but they link a wiki page here: [LinkSprite LCD Wiki](http://linksprite.com/wiki/index.php5?title=16_X_2_LCD_Keypad_Shield_for_Arduino_V2). The buttons are all tied to A0 through a resistor network. I have included the schematic PDF from Sparkfun for future reference. The PDF and other documentation can be found in the extras folder.
+This library can read the keypad buttons on the LinkSprite LCD Shield. I got mine from Sparkfun but their product page links to this wiki here: [LinkSprite LCD Wiki](http://linksprite.com/wiki/index.php5?title=16_X_2_LCD_Keypad_Shield_for_Arduino_V2). The buttons are all tied to A0 through a resistor network so all button states can be accessed simultaneously. I have included the schematic PDF from Sparkfun for future reference. The PDF and other documentation can be found in the extras folder.
 
 ### Extras ###
 [Arduino IDE 1.5 Library specification.md](extras/Arduino%20IDE%201.5%20Library%20specification.md) in extras was copied on  April 12, 2015 from the Arduino github Wiki for quick and easy reference. The original page can be found here: [Arduino IDE 1.5 Library specification](https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5:-Library-specification)
