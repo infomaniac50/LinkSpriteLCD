@@ -4,7 +4,6 @@ Blog: https://www.coding-squared.com/blog/
 Github: [@infomaniac50](https://github.com/infomaniac50/)  
 [License: GPLv3](LICENSE.md)  
 
-A library to simplify usage of the LinkSprite LCD Shield.
 This library is used to read the keypad buttons on the LinkSprite LCD Shield. I got mine from Sparkfun but they link a wiki page here: [LinkSprite LCD Wiki](http://linksprite.com/wiki/index.php5?title=16_X_2_LCD_Keypad_Shield_for_Arduino_V2). The buttons are all tied to A0 through a resistor network. I have included the schematic PDF from Sparkfun for future reference. The PDF and other documentation can be found in the extras folder.
 
 ### Extras ###
