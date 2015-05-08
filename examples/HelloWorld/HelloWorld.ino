@@ -31,6 +31,10 @@
  by Tom Igoe
  modified 7/11/2014
  by Jingjing Yi, LinkSprite
+ modified 8 May 2015
+ by Derek Chafin, http://coding-squared.com/
+ Wasn't getting any key from the code.
+ Make the code at least half way correct.
 
  This example code is in the public domain.
 
